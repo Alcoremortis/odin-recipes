@@ -1,0 +1,46 @@
+* {
+    background-color: antiquewhite;
+    font: Helvitica, "Times New Roman", serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.center-vert {
+    padding: 140px 140px;
+    border: 3px solid green;
+}
+
+.recipe-links {
+    list-style: none;
+    text-align: center;
+    line-height: 16px;
+}
+/*applies this only to the first page list*/
+
+button,
+a {
+    background-color: rgb(0, 128, 0);
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+/*fills the entire button with this color and makes lettering white*/
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:400px;
+}
+/*this is to center the images of the food*/ 
+
+.recipe-card {
+    text-align: center;
+}
+
+.recipe-content {
+    text-align: left;
+}
+
